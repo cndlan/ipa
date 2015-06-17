@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://221.226.56.210:28380/amaze/static/smartwork.ipa</string>
+					<string>http://v.legu168.com/hlzzb.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.fnst.smartwork</string>
+				<string>com.legu168.hlzzb</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>smartwork.ipa</string>
+				<string>hlzzb.ipa</string>
 			</dict>
 		</dict>
 	</array>
